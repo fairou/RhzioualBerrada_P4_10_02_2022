@@ -367,6 +367,10 @@ a img {
 }
 
 @media (min-width: 768px) {
+    .contact-block {
+        text-align: center;
+        margin-left: 180px;
+    }
     .site-navigation {
         position: absolute;
         top: 50%;
